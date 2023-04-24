@@ -37,15 +37,17 @@ plugins:
 # 3. Gem settings
 paginate: 2 # jekyll-paginate > items per page
 paginate_path: blog/page:num # jekyll-paginate > blog page
-jekyll-mentions: # jekyll-mentions > service used when @replying
+jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
 twitter:
-  username: binipringle # jekyll-seo-tag > Owners twitter username
-author: binipringle # jekyll-seo-tag > default author
+  username: DavidDarnes # jekyll-seo-tag > Owners twitter username
+author: DavidDarnes # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
-  name: Sabina Pringle # jekyll-seo-tag > real name
+  name: David Darnes # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
-    - https://www.linkedin.com/in/sabinapringle/
-    - https://github.com/binipringle
+    - https://twitter.com/DavidDarnes
+    - https://www.facebook.com/daviddarnes
+    - https://www.linkedin.com/in/daviddarnes
+    - https://github.com/daviddarnes
 # markdown: CommonMark # Markdown parse settings, CommonMark performs slightly better an others in build time
 # commonmark:
   # options: ["SMART", "FOOTNOTES"]
