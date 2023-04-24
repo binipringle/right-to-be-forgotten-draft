@@ -123,12 +123,12 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Home
   url: https://binipringle.github.io/right-to-be-forgotten/
-- title: Elements
-  url: https://binipringle.github.io/right-to-be-forgotten/elements/
+- title: History
+  url: https://binipringle.github.io/right-to-be-forgotten/history/
+- title: Law
+  url: https://binipringle.github.io/right-to-be-forgotten/law/
 - title: Blog
   url: https://binipringle.github.io/right-to-be-forgotten/blog/
-- title: Categories
-  url: https://binipringle.github.io/right-to-be-forgotten/categories/
 - title: Search
   url: https://binipringle.github.io/right-to-be-forgotten/search/
 - title: Fork
