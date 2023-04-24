@@ -94,9 +94,9 @@ lang: en-GB # Set the site language
 title: "Seeking the Right to Be Forgotten in New York State" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "The right to be forgotten is a human right protected under the European Constitution in the General Data Privacy Regulation Act (GDPR). A version of this right is protected under the California Consumer Act (CCA). A similar law has been proposed in New York State in NAME OF PROPOSED LAW. This paper will discuss why the right to be forgotten is an important human right, why California law does not go as far as European law in protecting this right, and whether the proposed New York law can guarantee more protections than California law in protecting our right to be forgotten." # Site description and default description, also used in jekyll-seo-tag
-url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
+url: "https://binipringle.github.io/right-to-be-forgotten/" # Site url, also used in jekyll-seo-tag
 baseurl: ""
-repo: "https://github.com/daviddarnes/alembic"
+repo: "https://github.com/binipringle/right-to-be-forgotten"
 email: "sabina.pringle@gmail.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
@@ -129,23 +129,23 @@ navigation_header:
   url: /categories/
 - title: Search
   url: /search/
-- title: Fork Alembic
-  url: https://github.com/daviddarnes/alembic
+- title: Fork
+  url: https://github.com/binipringle/right-to-be-forgotten.git
 
 navigation_footer:
-- title: Created by David Darnes
-  url: https://darn.es
+- title: Created by Sabina Pringle
+  url: https://sabinapringle.commons.gc.cuny.edu/
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  Twitter: https://twitter.com/DavidDarnes
-  LinkedIn: https://www.linkedin.com/in/daviddarnes
-  GitHub: https://github.com/daviddarnes
-  link: https://darn.es
+  Twitter:
+  LinkedIn: https://www.linkedin.com/in/sabinapringle/
+  GitHub: https://github.com/binipringle
+  link: https://binipringle.github.io/right-to-be-forgotten/
   RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
-  Twitter: "#0d94e7"
-  facebook: "#3B5998"
+  Twitter:
+  facebook:
   Email: true
 
 # Load custom fonts from fonts.google.com etc
