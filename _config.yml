@@ -124,13 +124,13 @@ navigation_header:
 - title: Home
   url: /
 - title: Elements
-  url: /elements/
+  url: https://binipringle.github.io/right-to-be-forgotten/elements/
 - title: Blog
-  url: /blog/
+  url: https://binipringle.github.io/right-to-be-forgotten/blog/
 - title: Categories
-  url: /categories/
+  url: https://binipringle.github.io/right-to-be-forgotten/categories/
 - title: Search
-  url: /search/
+  url: https://binipringle.github.io/right-to-be-forgotten/search/
 - title: Fork
   url: https://github.com/binipringle/right-to-be-forgotten
 
