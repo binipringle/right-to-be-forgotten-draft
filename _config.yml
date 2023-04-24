@@ -97,7 +97,7 @@ title: "Seeking the Right to Be Forgotten in New York State" # Site name or titl
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "The right to be forgotten is a human right protected under the European Constitution in the General Data Privacy Regulation Act (GDPR). A version of this right is protected under the California Consumer Act (CCA). A similar law has been proposed in New York State in NAME OF PROPOSED LAW. This paper will discuss why the right to be forgotten is an important human right, why California law does not go as far as European law in protecting this right, and whether the proposed New York law can guarantee more protections than California law in protecting our right to be forgotten." # Site description and default description, also used in jekyll-seo-tag
 url: "https://binipringle.github.io/right-to-be-forgotten/" # Site url, also used in jekyll-seo-tag
-baseurl: ""
+baseurl: "https://binipringle.github.io/right-to-be-forgotten/"
 repo: "https://github.com/binipringle/right-to-be-forgotten"
 email: "sabina.pringle@gmail.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
