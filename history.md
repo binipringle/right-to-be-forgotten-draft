@@ -6,9 +6,7 @@ excerpt: "A demo of Markdown and HTML includes"
 aside: true
 ---
 
-# Premise
-
-The right to be forgotten is premised on the potential for rehabilitation - the idea that privacy allows us to fully evolve as individuals because it prevents others from digging up the digital memory of our past. In Europe, the intellectual roots of the right to be forgotten can be found in French law, which recognizes _le droit à l’oubli_ — a right that allows a person formerly convicted of a criminal offense who has served their time and been rehabilitated to object to the publication of the facts of their conviction and incarceration. In America, by contrast, publication of someone’s criminal history is protected by the First Amendment.
+In Europe, the intellectual roots of the right to be forgotten can be found in French law, which recognizes _le droit à l’oubli_ — a right that allows a person formerly convicted of a criminal offense who has served their time and been rehabilitated to object to the publication of the facts of their conviction and incarceration. In America, by contrast, publication of someone’s criminal history is protected by the First Amendment.
 
 <small>A small element</small>
 
@@ -79,10 +77,10 @@ blockquote.innerHTML = bolden("Mr. Sullivan", blockquote.innerHTML)
 
 ### Demo map embed
 
-{% include map.html id="1UT-2Z-Vg_MG_TrS5X2p8SthsJhc" title="Coffee shop map" %}
+{% include map.html id="hWT832R16sKgjpMA8" title="Google data center" %}
 
 ``` html
-{% raw %}{% include map.html id="XXXXXX" title="Coffee shop map" %}{% endraw %}
+{% raw %}{% include map.html id="XXXXXX" title="Google data center" %}{% endraw %}
 ```
 
 ### Button include
