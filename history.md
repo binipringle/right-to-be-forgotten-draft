@@ -1,23 +1,14 @@
 ---
 title: History
 feature_text: |
-  A demo of Markdown and HTML includes
-feature_image: "https://picsum.photos/2560/600?image=873"
+  The right to be forgotten is premised on the potential for rehabilitation - the idea that privacy allows us to fully evolve as individuals because it prevents others from digging up the digital memory of our past.
 excerpt: "A demo of Markdown and HTML includes"
 aside: true
 ---
 
-# Heading 1
+# Premise
 
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
+The right to be forgotten is premised on the potential for rehabilitation - the idea that privacy allows us to fully evolve as individuals because it prevents others from digging up the digital memory of our past. In Europe, the intellectual roots of the right to be forgotten can be found in French law, which recognizes _le droit à l’oubli_ — a right that allows a person formerly convicted of a criminal offense who has served their time and been rehabilitated to object to the publication of the facts of their conviction and incarceration. In America, by contrast, publication of someone’s criminal history is protected by the First Amendment.
 
 <small>A small element</small>
 
