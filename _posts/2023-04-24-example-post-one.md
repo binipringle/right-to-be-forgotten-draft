@@ -1,5 +1,5 @@
 ---
-title: General Data Protection Regulation (GDPR)
+title: General Data Protection Regulation (GDPR) Art. 17
 categories:
 - Europe
 feature_image: "https://picsum.photos/2560/600?image=872"
