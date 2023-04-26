@@ -1,7 +1,7 @@
 ---
-title: History of the Alembic
+title: California Consumer Privacy Act (CCPA)
 categories:
-- History
+- California
 - External sources
 feature_text: |
   The History of the Alembic tool
