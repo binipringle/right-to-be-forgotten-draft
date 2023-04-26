@@ -2,7 +2,6 @@
 title: California Consumer Privacy Act (CCPA)
 categories:
 - California
-- External sources
 feature_text: |
   The History of the Alembic tool
 ---
