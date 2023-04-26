@@ -1,7 +1,7 @@
 ---
-title: Description of an Alembic
+title: General Data Protection Regulation (GDPR)
 categories:
-- General
+- Europe
 - External sources
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
