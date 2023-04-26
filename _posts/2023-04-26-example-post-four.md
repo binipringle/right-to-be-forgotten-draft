@@ -1,19 +1,14 @@
 ---
-title: New York State Senate Assembly Bill A5323 2017-2018 Legislative Session
+title: New York State Senate Assembly Bill A5323 | 2017-2018 Legislative Session
 
 categories:
 - New York
 excerpt: |
-  A pot still is a type of still used in distilling spirits such as whisky or brandy. Heat is applied directly to the pot containing the wash (for whisky) or wine (for brandy).
+  Relates to creating the right to be forgotten act.
 feature_text: |
-  ## The Pot Still
-  The modern pot still is a descendant of the alembic, an earlier distillation device
+  ## Relates to creating the right to be forgotten act.
 feature_image: "https://picsum.photos/2560/600?image=733"
 image: "https://picsum.photos/2560/600?image=733"
 ---
 
-A pot still is a type of still used in distilling spirits such as whisky or brandy. Heat is applied directly to the pot containing the wash (for whisky) or wine (for brandy). This is called a batch distillation (as opposed to a continuous distillation).
-
-At standard atmospheric pressure, alcohol boils at 78 °C (172 °F), while water boils at 100 °C (212 °F). During distillation, the vapour contains more alcohol than the liquid. When the vapours are condensed, the resulting liquid contains a higher concentration of alcohol. In the pot still, the alcohol and water vapour combine with esters and flow from the still through the condensing coil. There they condense into the first distillation liquid, the so-called "low wines". The low wines have a strength of about 25–35% alcohol by volume, and flow into a second still. It is then distilled a second time to produce the colourless spirit, collected at about 70% alcohol by volume. Colour is added through maturation in an oak aging barrel, and develops over time.
-
-The modern pot still is a descendant of the alembic, an earlier distillation device.
+Relates to creating the right to be forgotten act. This act would amend civil rights law and civil practice law rules, and require search engines, indexers, publishers and any other persons or entities which make available, on or through the internet or other widely used computer-based network, program or service, information about an individual to remove such information, upon the request of the individual, within thirty days of such request. [Full text of proposed bill](https://www.nysenate.gov/legislation/bills/2017/A5323)

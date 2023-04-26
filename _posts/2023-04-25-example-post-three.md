@@ -6,12 +6,15 @@ feature_text: |
   The History of the Alembic tool
 ---
 
-Dioscorides' ambix (described in his De materia medica) is a helmet-shaped lid for gathering condensed mercury. For Athenaeus (~ 225 C.E.) it is a bottle or flask. For later chemists it denotes various parts of crude distillation devices.
+The CCPA is a state statute intended to enhance privacy rights and consumer protection for residents of California, United States. The bill was passed by the California State Legislature and signed into law on June 28, 2018. The intentions of the Act are to provide California residents with the right to:
 
-<!-- more -->
+1. Know what personal data is being collected about them.
+2. Know whether their personal data is sold or disclosed and to whom.
+3. Say no to the sale of personal data.
+4. Access their personal data.
+5. Request a business to delete any personal information about a consumer collected from that consumer.[10]
+6. Not be discriminated against for exercising their privacy rights.
 
-Alembic drawings appear in works of Cleopatra the Alchemist, Synesius, and Zosimos of Panopolis. There were alembics with two (dibikos) and three (tribikos) receivers.[4] According to Zosimos of Panopolis, the alembic was invented by Mary the Jewess.[5]
+Key differences between CCPA and Europe's GDPR include scope and territorial reach, definitions related to protected information, levels of specificity, and an opt-out right for sales of personal information (CCPA has this while GDPR doesn't, but arguably protects personal data from being used for marketing purposes in other ways). CCPA differs in definition of personal information from GDPR as in some cases the CCPA only considers data that was provided by a consumer. The GDPR does not make that distinction and covers all personal data regardless of source. CCPA does not protect sensitive personal information if the information was manifestly made public by the data subject themselves. As such, the definition in GDPR is much broader than defined in the CCPA.
 
-The anbik is described by Ibn al-Awwam in his Kitab al-Filaha (Book of Agriculture), where he explains how rose-water is distilled. Amongst others, it is mentioned in the Mafatih al-Ulum (Key of Sciences) of Khwarizmi and the Kitab al-Asrar (Book of Secrets) of Al-Razi. Some illustrations occur in the Latin translations of works which are attributed to Geber.[2]
-
-_Originally from [Alembic - Wikipedia](https://en.wikipedia.org/wiki/Alembic)_
+_Adapted from [California Consumer Privacy Act - Wikipedia](https://en.wikipedia.org/wiki/California_Consumer_Privacy_Act)_
