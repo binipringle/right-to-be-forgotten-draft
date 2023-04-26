@@ -1,5 +1,5 @@
 ---
-title: New York State Senate Bill S4561
+title: New York State Senate Assembly Bill A5323 2017-2018 Legislative Session
 
 categories:
 - New York
