@@ -3,7 +3,7 @@ title: California Consumer Privacy Act (CCPA)
 categories:
 - California
 feature_text: |
-  The History of the Alembic tool
+  State statue that protects privacy and consumer rights of residents of California
 ---
 
 The CCPA is a state statute intended to enhance privacy rights and consumer protection for residents of California, United States. The bill was passed by the California State Legislature and signed into law on June 28, 2018. The intentions of the Act are to provide California residents with the right to:
